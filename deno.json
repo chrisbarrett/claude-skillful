@@ -18,7 +18,7 @@
   },
   "exclude": [".*"],
   "publish": {
-    "exclude": [".*", "flake.*", "**/*.test.ts", "test/**"]
+    "exclude": [".*", "flake.*", "**/*.test.ts", "test-data/**"]
   },
   "test": {
     "include": ["**/*.test.ts"],
